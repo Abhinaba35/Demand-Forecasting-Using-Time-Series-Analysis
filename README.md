@@ -68,7 +68,7 @@ For Google Colab:
 For local execution:
 Install the required libraries and run the notebook in Jupyter.
 
-## Interview Explanation
+## Explanation
 This project converts raw retail order data into a daily time series, applies ARIMA and Holt-Winters models, evaluates them using MAE, RMSE, and MAPE, and selects the best model for forecasting future demand based on accuracy and residual diagnostics.
 
 ## Future Enhancements
